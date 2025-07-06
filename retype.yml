@@ -1,27 +1,17 @@
-# -----------------------------------------------------------------------------
-# Retype Pro
-# -----------------------------------------------------------------------------
-
-poweredByRetype: true         # Set to false to remove "Powered by Retype"
-                              # A Retype Pro license is required
-                              # See: https://retype.com/pro
-
-# -----------------------------------------------------------------------------
+poweredByRetype: false        
 
 breadcrumb:
-  enabled: true               # Enabled by default on Pro projects
-  home: Home                  # Custom label for the first item
-  home: ":icon-home:"         # or, use an icon
-  separator: "|"              # Custom item separator
-
-# -----------------------------------------------------------------------------
+  enabled: true               
+  home: Home                  
+  home: ":icon-home:"         
+  separator: "|"              
 
 outbound:
-  enabled: true               # Enabled by default on Pro projects
-  custom: 'rel="noopener noreferrer"' # custom attribute added to links
-  icon: link-external         # A custom icon name, :emoji:, <svg>, or
-                              # a path to a file
-  iconAlign: left             # Icon alignment, to the left or right
+  enabled: true               
+  custom: 'rel="noopener noreferrer"' 
+  icon: link-external         
+                              
+  iconAlign: left             
   target: blank               # Custom target
                               # Use "blank" to open link in a new window
   exclude:                    # Links or patterns to exclude
@@ -36,7 +26,7 @@ outbound:
 # Retype
 # -----------------------------------------------------------------------------
 
-input: .                      # Local path from this retype.yml file to the
+input: ./src                      # Local path from this retype.yml file to the
                               # root of your project content files
                               # See also: output
 
@@ -47,10 +37,7 @@ output: .retype               # Custom path to the output directory
 
 # -----------------------------------------------------------------------------
 
-url: example.com              # The base URL of your website
-url: docs.example.com         # Can also be a sub-domain
-url: example.com/docs         # Can also include a sub-folder path
-url: https://example.com/docs # Can also include a protocol
+url: harys722.github.io/readme-test              # The base URL of your website
 
 # -----------------------------------------------------------------------------
 
@@ -194,8 +181,8 @@ serve:
 # -----------------------------------------------------------------------------
 
 start:
-  open: false                 # Do not automatically open web browser on start
-  pro: false                  # Start project in Pro mode and trial features
+  open: true                 # Do not automatically open web browser on start
+  pro: true                  # Start project in Pro mode and trial features
 
 # -----------------------------------------------------------------------------
 
