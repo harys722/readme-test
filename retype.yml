@@ -208,4 +208,4 @@ toc:                          # Table of Contents configuration (Pro only)
 
 # -----------------------------------------------------------------------------
 
-showSidebarFilter: true       # Control visibility of filter component in sidebar
+showSidebarFilter: false       # Control visibility of filter component in sidebar
