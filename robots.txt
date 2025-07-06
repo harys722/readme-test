@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://harys722.github.io/readme-test/sitemap.xml.gz
+Sitemap: https://retype.com/sitemap.xml.gz
