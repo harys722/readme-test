@@ -58,7 +58,7 @@ start:
 # Retype
 # -------------------
 
-input: ./docs
+input: ./src
 output: .retype
 url: harys722.github.io/readme-test
 
@@ -107,6 +107,6 @@ footer:
   copyright: "© 2025 harys.is-a.dev - All Rights Reserved."
 
   links:
-    - text: harys722
+    - text: harys722.s
       link: https://harys.is-a.dev
       icon: shield-check
