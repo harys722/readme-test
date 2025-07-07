@@ -22,16 +22,25 @@ nav:
 
 theme:
   base:
-    base-color: "#ff6b35"
-    base-link-weight: 500            # Slightly bolder links
-    nav-item-text-active-weight: 700 # Bold active navigation
-    heading-text: "#1a202c"          # Darker headings
+    base-color: "#F9B234"
+    base-bg: "#eff1f5"
+    primary: "#FFD700"
+    success: "#40a02b" 
+    danger: "#d20f39"  
+    warning: "#df8e1d" 
+    royal: "#CDD28E"   
+
+    base-link-weight: 500
+    nav-item-text-active-weight: 700
+    image-rounded: 0.75rem
   dark:
-    base-bg: "#0a0e1a"              # Very dark blue background
-    sidebar-left-bg: "#1a1f2e"      # Slightly lighter sidebar
-    base-text: "#e2e8f0"            # Light grey text
-    heading-text: "#ffffff"         # Pure white headings
-    base-border: "#2d3748"          # Subtle borders
+    base-color: "#F8EDBF"
+    base-bg: "#303446"
+    primary: "#FFD700"
+    success: "#a6d189"
+    danger: "#e78284" 
+    warning: "#e5c890"
+    royal: "#878A5C"   
 
 # New Hub link feature, but not used on retype.com
 hub:
