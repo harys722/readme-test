@@ -22,27 +22,27 @@ nav:
 
 theme:
   base:
-    # Yellowish cool theme with better contrast
-    base-color: "#B8860B"       # Dark Goldenrod for better visibility
-    base-bg: "#FAF3DD"          # Light warm beige for a soft yellowish background
-    primary: "#D2A520"          # Goldenrod, more muted and readable
-    success: "#7BA05B"          # Muted green
-    danger: "#A0522D"           # Sienna for good contrast
-    warning: "#CDBA7B"          # Khaki shade
-    royal: "#6CA0A3"            # Cool teal blue
-
+    # Enhanced yellowish light theme with vibrant gold accents
+    base-color: "#B8860B"           # Dark Goldenrod for excellent readability
+    base-bg: "#FFFEF7"              # Creamy white with subtle yellow warmth
+    primary: "#FFD700"              # Pure gold as requested - vibrant and eye-catching
+    success: "#9ACD32"              # Yellow-green for harmony with theme
+    danger: "#DC143C"               # Crimson for strong contrast
+    warning: "#FF8C00"              # Dark orange that complements gold
+    royal: "#4169E1"                # Royal blue for elegant contrast
     base-link-weight: 500
     nav-item-text-active-weight: 700
     image-rounded: 0.75rem
+
   dark:
-    # Dark theme with warm yellow accents
-    base-color: "#E6C200"        # Dark Goldenrod
-    base-bg: "#1E1E1E"           # Dark slate gray for a softer dark background
-    primary: "#FFA500"           # Gold
-    success: "#6B8E23"           # Olive Drab
-    danger: "#8B0000"            # Dark Red
-    warning: "#D2B48C"           # Tan
-    royal: "#3B9C9C"             # Deep teal
+    # Sophisticated dark theme with luxurious gold highlights
+    base-color: "#FFD700"           # Pure gold for maximum impact in dark mode
+    base-bg: "#0F0F0F"              # Deep charcoal black for premium feel
+    primary: "#FFED4E"              # Bright golden yellow for excellent visibility
+    success: "#32CD32"              # Lime green for fresh contrast
+    danger: "#FF4500"               # Orange-red for warmth and visibility
+    warning: "#FFB347"              # Peach-gold blend
+    royal: "#1E90FF"                # Dodger blue for cool balance
 
 # New Hub link feature, but not used on retype.com
 hub:
