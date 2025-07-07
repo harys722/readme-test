@@ -36,7 +36,7 @@ theme:
     image-rounded: 0.75rem
   dark:
     # Dark theme with warm yellow accents
-    base-color: "#B8860B"        # Dark Goldenrod
+    base-color: "#E6C200"        # Dark Goldenrod
     base-bg: "#1E1E1E"           # Dark slate gray for a softer dark background
     primary: "#FFA500"           # Gold
     success: "#6B8E23"           # Olive Drab
