@@ -35,7 +35,7 @@ theme:
     image-rounded: 0.75rem
   dark:
     base-color: "#F8EDBF"
-    base-bg: "#2D2D2D"
+    base-bg: "#000000"
     primary: "#FFD700"
     success: "#a6d189"
     danger: "#e78284" 
