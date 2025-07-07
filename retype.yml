@@ -22,27 +22,27 @@ nav:
 
 theme:
   base:
-    # Catppuccin Theme: Latte with yellowish cool theme
-    base-color: "#D4AF37"       # Warm Gold (adjust as needed)
-    base-bg: "#EFF1F5"          # White background
-    primary: "#FFC300"          # Bright Yellow (cool tone)
-    success: "#A3BE8C"          # Cool Green
-    danger: "#E5A2A2"           # Soft Red
-    warning: "#F0E68C"          # Khaki / Light Yellow
-    royal: "#88C0D0"            # Cool Blue
+    # Yellowish cool theme with better contrast
+    base-color: "#B8860B"       # Dark Goldenrod for better visibility
+    base-bg: "#FAF3DD"          # Light warm beige for a soft yellowish background
+    primary: "#D2A520"          # Goldenrod, more muted and readable
+    success: "#7BA05B"          # Muted green
+    danger: "#A0522D"           # Sienna for good contrast
+    warning: "#CDBA7B"          # Khaki shade
+    royal: "#6CA0A3"            # Cool teal blue
 
     base-link-weight: 500
     nav-item-text-active-weight: 700
     image-rounded: 0.75rem
   dark:
-    # Dark theme background remains black
-    base-color: "#E6C200"        # Warm Gold for dark accents
-    base-bg: "#000000"            # Black background
-    primary: "#FFD700"            # Gold
-    success: "#8FBC8F"            # Dark Sea Green
-    danger: "#CD5C5C"             # Indian Red
-    warning: "#DAA520"            # Goldenrod
-    royal: "#5F9EA0"              # Cadet Blue
+    # Dark theme with warm yellow accents
+    base-color: "#B8860B"        # Dark Goldenrod
+    base-bg: "#1E1E1E"           # Dark slate gray for a softer dark background
+    primary: "#F4D35E"           # Warm yellow
+    success: "#6B8E23"           # Olive Drab
+    danger: "#8B0000"            # Dark Red
+    warning: "#D2B48C"           # Tan
+    royal: "#3B9C9C"             # Deep teal
 
 # New Hub link feature, but not used on retype.com
 hub:
