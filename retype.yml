@@ -38,7 +38,7 @@ theme:
     # Dark theme with warm yellow accents
     base-color: "#B8860B"        # Dark Goldenrod
     base-bg: "#1E1E1E"           # Dark slate gray for a softer dark background
-    primary: "#F4D35E"           # Warm yellow
+    primary: "#FFA500"           # Gold
     success: "#6B8E23"           # Olive Drab
     danger: "#8B0000"            # Dark Red
     warning: "#D2B48C"           # Tan
