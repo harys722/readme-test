@@ -22,25 +22,27 @@ nav:
 
 theme:
   base:
-    base-color: "#F9B234"
-    base-bg: "#eff1f5"
-    primary: "#FFD700"
-    success: "#40a02b" 
-    danger: "#d20f39"  
-    warning: "#df8e1d" 
-    royal: "#CDD28E"   
+    # Catppuccin Theme: Latte with yellowish cool theme
+    base-color: "#D4AF37"       # Warm Gold (adjust as needed)
+    base-bg: "#EFF1F5"          # White background
+    primary: "#FFC300"          # Bright Yellow (cool tone)
+    success: "#A3BE8C"          # Cool Green
+    danger: "#E5A2A2"           # Soft Red
+    warning: "#F0E68C"          # Khaki / Light Yellow
+    royal: "#88C0D0"            # Cool Blue
 
     base-link-weight: 500
     nav-item-text-active-weight: 700
     image-rounded: 0.75rem
   dark:
-    base-color: "#F8EDBF"
-    base-bg: "#000000"
-    primary: "#FFA500"
-    success: "#a6d189"
-    danger: "#e78284" 
-    warning: "#e5c890"
-    royal: "#878A5C"   
+    # Dark theme background remains black
+    base-color: "#E6C200"        # Warm Gold for dark accents
+    base-bg: "#000000"            # Black background
+    primary: "#FFD700"            # Gold
+    success: "#8FBC8F"            # Dark Sea Green
+    danger: "#CD5C5C"             # Indian Red
+    warning: "#DAA520"            # Goldenrod
+    royal: "#5F9EA0"              # Cadet Blue
 
 # New Hub link feature, but not used on retype.com
 hub:
