@@ -31,7 +31,6 @@ theme:
     warning: "#FF6347"              # Tomato - warm and inviting
     royal: "#8A2BE2"                # Blue violet - regal and mysterious
     accent: "#FFA500"               # Orange - fiery complement
-    highlight: "#FFFF00"            # Pure yellow - sunburst effect
     base-link-weight: 600
     nav-item-text-active-weight: 800
     image-rounded: 1rem
@@ -46,8 +45,6 @@ theme:
     warning: "#FF4500"              # Orange red - molten fire
     royal: "#9370DB"                # Medium purple - mystical depth
     accent: "#FFA500"               # Orange - liquid amber
-    highlight: "#FFD700"            # Gold - liquid metal shine
-    glow: "#FFFF66"                 # Light yellow - ethereal glow
     base-link-weight: 600
     nav-item-text-active-weight: 800
     image-rounded: 1rem
