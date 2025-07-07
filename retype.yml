@@ -22,27 +22,35 @@ nav:
 
 theme:
   base:
-    # Enhanced yellowish light theme with vibrant gold accents
-    base-color: "#B8860B"           # Dark Goldenrod for excellent readability
-    base-bg: "#FFFEF7"              # Creamy white with subtle yellow warmth
-    primary: "#FFD700"              # Pure gold as requested - vibrant and eye-catching
-    success: "#9ACD32"              # Yellow-green for harmony with theme
-    danger: "#DC143C"               # Crimson for strong contrast
-    warning: "#FF8C00"              # Dark orange that complements gold
-    royal: "#4169E1"                # Royal blue for elegant contrast
-    base-link-weight: 500
-    nav-item-text-active-weight: 700
-    image-rounded: 0.75rem
+    # Luxurious golden sunrise theme - absolutely stunning
+    base-color: "#B8860B"           # Dark Goldenrod for perfect readability
+    base-bg: "#FFFBF0"              # Ivory silk with golden kiss
+    primary: "#FFD700"              # Pure 24-karat gold - maximum brilliance
+    success: "#ADFF2F"              # Electric lime - vibrant energy
+    danger: "#FF1493"               # Deep pink - bold and striking
+    warning: "#FF6347"              # Tomato - warm and inviting
+    royal: "#8A2BE2"                # Blue violet - regal and mysterious
+    accent: "#FFA500"               # Orange - fiery complement
+    highlight: "#FFFF00"            # Pure yellow - sunburst effect
+    base-link-weight: 600
+    nav-item-text-active-weight: 800
+    image-rounded: 1rem
 
   dark:
-    # Sophisticated dark theme with luxurious gold highlights
-    base-color: "#FFD700"           # Pure gold for maximum impact in dark mode
-    base-bg: "#0F0F0F"              # Deep charcoal black for premium feel
-    primary: "#FFED4E"              # Bright golden yellow for excellent visibility
-    success: "#32CD32"              # Lime green for fresh contrast
-    danger: "#FF4500"               # Orange-red for warmth and visibility
-    warning: "#FFB347"              # Peach-gold blend
-    royal: "#1E90FF"                # Dodger blue for cool balance
+    # Midnight gold luxury theme - breathtaking elegance
+    base-color: "#FFD700"           # Pure gold - gleaming against darkness
+    base-bg: "#0A0A0A"              # Obsidian black - deepest night
+    primary: "#FFFF00"              # Electric yellow - blazing brilliance
+    success: "#00FF7F"              # Spring green - fresh and alive
+    danger: "#FF0080"               # Hot pink - electrifying contrast
+    warning: "#FF4500"              # Orange red - molten fire
+    royal: "#9370DB"                # Medium purple - mystical depth
+    accent: "#FFA500"               # Orange - liquid amber
+    highlight: "#FFD700"            # Gold - liquid metal shine
+    glow: "#FFFF66"                 # Light yellow - ethereal glow
+    base-link-weight: 600
+    nav-item-text-active-weight: 800
+    image-rounded: 1rem
 
 # New Hub link feature, but not used on retype.com
 hub:
