@@ -22,27 +22,16 @@ nav:
 
 theme:
   base:
-    Catppuccin Theme: Latte
-    base-color: "#8839ef"
-    base-bg: "#eff1f5"
-    primary: "#1e66f5" # Blue
-    success: "#40a02b" # Green
-    danger: "#d20f39"  # Red
-    warning: "#df8e1d" # Yellow
-    royal: "#7287fd"   # Lavender
-
-    base-link-weight: 500
-    nav-item-text-active-weight: 700
-    image-rounded: 0.75rem
+    base-color: "#ff6b35"
+    base-link-weight: 500            # Slightly bolder links
+    nav-item-text-active-weight: 700 # Bold active navigation
+    heading-text: "#1a202c"          # Darker headings
   dark:
-    Catppuccin Theme: Frappé
-    base-color: "#ca9ee6"
-    base-bg: "#303446"
-    primary: "#8caaee" # Blue
-    success: "#a6d189" # Green
-    danger: "#e78284"  # Red
-    warning: "#e5c890" # Yellow
-    royal: "#babbf1"   # Lavender
+    base-bg: "#0a0e1a"              # Very dark blue background
+    sidebar-left-bg: "#1a1f2e"      # Slightly lighter sidebar
+    base-text: "#e2e8f0"            # Light grey text
+    heading-text: "#ffffff"         # Pure white headings
+    base-border: "#2d3748"          # Subtle borders
 
 # New Hub link feature, but not used on retype.com
 hub:
