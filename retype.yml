@@ -31,9 +31,9 @@ theme:
     warning: "#f39c12"              # Warm orange-yellow
     royal: "#8a2be2"                # Bright violet
     accent: "#4472C4"               # Darker, more saturated blue
-    base-link: "#075985"            # Darker blue link color
-    base-link-hover: "#054467"      # Slightly darker hover
-    base-link-weight: 600
+    link: "#075985"            # Darker blue link color
+    link-hover: "#054467"      # Slightly darker hover
+    link-weight: 600
     nav-item-text-active-weight: 800
     image-rounded: 1rem
 
@@ -47,9 +47,9 @@ theme:
     warning: "#ffc107"              #  Yellow
     royal: "#6c757d"                # Light gray
     accent: "#2980b9"               #  Bright blue - same as base theme for consistency.
-    base-link: "#075985"            # Dark blue link color - same as base theme
-    base-link-hover: "#054467"      # Slightly darker hover - same as base theme
-    base-link-weight: 600
+    link: "#075985"            # Dark blue link color - same as base theme
+    link-hover: "#054467"      # Slightly darker hover - same as base theme
+    link-weight: 600
     nav-item-text-active-weight: 800
     image-rounded: 1rem
 
