@@ -22,32 +22,36 @@ nav:
 
 theme:
   base:
-    # Sky blue theme
-    base-color: "#1a202c"           # A bit dark blue
-    base-bg: "#f0f9ff"              # Ivory silk with sky blue
-    primary: "#0000FF"              # Blueish color
-    success: "#48bb78"              # Fresh green
-    danger: "#f56565"               # Vibrant red
-    warning: "#eed202"              # Warning yellow
-    royal: "#8A2BE2"                # Blue violet 
-    accent: "#4472C4"               # Blue - fiery complement
-    base-link-weight: 600
-    nav-item-text-active-weight: 800
-    image-rounded: 1rem
+    # Modern Portfolio Inspired - Clean, Professional, WOW
+    base-color: "#1a202c"               # Rich charcoal - perfect readability
+    base-bg: "#f7fafc"                  # Ultra-light gray - sophisticated canvas
+    primary: "#4299e1"                  # Bright blue - confident and modern
+    success: "#48bb78"                  # Fresh green - positive and clean
+    danger: "#f56565"                   # Vibrant red - clear but not harsh
+    warning: "#ed8936"                  # Warm orange - friendly alert
+    royal: "#805ad5"                    # Rich purple - premium feel
+    accent: "#38b2ac"                   # Teal - modern and distinctive
+    base-link-color: "#3182ce"          # Strong blue - clearly visible
+    base-link-hover-color: "#2c5282"    # Deeper blue on hover
+    base-link-weight: 600               # Semi-bold for perfect balance
+    nav-item-text-active-weight: 700    # Bold active states
+    image-rounded: 1rem                 # Modern rounded corners
 
   dark:
-    # Midnight dark blue theme
-    base-color: "#00008B"           # Dark blue
-    base-bg: "#0d1117"              # Midnight blue
-    primary: "#0000FF"              # Blueish color
-    success: "#48bb78"              # Fresh green
-    danger: "#f56565"               # Vibrant red
-    warning: "#eed202"              # Warning yellow
-    royal: "#9370DB"                # Medium purple - mystical depth
-    accent: "#4472C4"               # Blue - liquid amber
-    base-link-weight: 600
-    nav-item-text-active-weight: 800
-    image-rounded: 1rem
+    # Enhanced Midnight Azure - Premium Dark Experience
+    base-color: "#e2e8f0"               # Light gray-blue - soft on eyes
+    base-bg: "#0d1117"                  # GitHub-inspired deep dark
+    primary: "#58a6ff"                  # Electric blue - stunning against dark
+    success: "#3fb950"                  # Vibrant green - GitHub-inspired
+    danger: "#f85149"                   # Bright red - clear visibility
+    warning: "#d29922"                  # Golden yellow - warm glow
+    royal: "#a5a3ff"                    # Light purple - dreamy and mystical
+    accent: "#39d0d8"                   # Bright cyan - electric pop
+    base-link-color: "#075985"          # Bright blue - perfect contrast
+    base-link-hover-color: "#054467"    # Lighter blue hover - smooth interaction
+    base-link-weight: 600               # Clean weight for dark theme
+    nav-item-text-active-weight: 700    # Strong active states
+    image-rounded: 1rem                 # Consistent modern styling
 
 # New Hub link feature, but not used on retype.com
 hub:
