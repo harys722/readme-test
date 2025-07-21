@@ -22,32 +22,36 @@ nav:
 
 theme:
   base:
-    # Azure sky theme - light
-    base-color: "#1e3a5f"           # Deep navy for perfect readability
-    base-bg: "#87ceeb"              # Sky blue - cloudless azure heaven
-    primary: "#4682b4"              # Steel blue - brilliant sky depth
-    success: "#5f9ea0"              # Cadet blue - calm and trustworthy
-    danger: "#ff6b6b"               # Coral red - gentle but clear warning
-    warning: "#ffa726"              # Amber - warm sky sunset
-    royal: "#6a5acd"                # Slate blue - regal sky at dusk
-    accent: "#40e0d0"               # Turquoise - tropical sky complement
-    base-link-weight: 600
-    nav-item-text-active-weight: 800
-    image-rounded: 1rem
+    # Crisp Azure Professional - light theme that POPS
+    base-color: "#0a1628"               # Deep navy - razor-sharp readability
+    base-bg: "#ffffff"                  # Pure white - clean canvas
+    primary: "#0066cc"                  # Vibrant blue - confident and trustworthy
+    success: "#00a86b"                  # Emerald green - fresh and positive
+    danger: "#e53e3e"                   # Bold red - clear and decisive
+    warning: "#ff8c00"                  # Dark orange - warm but serious
+    royal: "#6b46c1"                    # Rich purple - elegant authority
+    accent: "#00b4d8"                   # Electric cyan - modern and fresh
+    base-link-color: "#0066cc"          # Match primary for consistency
+    base-link-hover-color: "#004499"    # Darker on hover for interaction
+    base-link-weight: 700               # Bold links that stand out
+    nav-item-text-active-weight: 900    # Extra bold active states
+    image-rounded: 1.25rem              # Slightly more rounded for modern feel
 
   dark:
-    # Midnight azure theme - dark
-    base-color: "#87ceeb"           # Sky blue - gleaming against darkness
-    base-bg: "#0f1419"              # Deep midnight blue - starless night
-    primary: "#4682b4"              # Steel blue - night sky brilliance
-    success: "#20b2aa"              # Light sea green - ocean depths
-    danger: "#ff4757"               # Bright red - clear night warning
-    warning: "#ff9f43"              # Sandy brown - desert night glow
-    royal: "#7b68ee"                # Medium slate blue - mystical night
-    accent: "#00d2d3"               # Dark turquoise - midnight ocean
-    base-link-weight: 600
-    nav-item-text-active-weight: 800
-    image-rounded: 1rem
+    # Midnight Premium - sophisticated dark theme
+    base-color: "#f8fafc"               # Near-white - crisp contrast
+    base-bg: "#0f172a"                  # Rich dark slate - premium feel
+    primary: "#3b82f6"                  # Bright blue - electric against dark
+    success: "#10b981"                  # Vibrant green - fresh pop of color
+    danger: "#ef4444"                   # Pure red - clear warning
+    warning: "#f59e0b"                  # Golden amber - luxurious glow
+    royal: "#8b5cf6"                    # Electric violet - premium mystique
+    accent: "#06b6d4"                   # Bright cyan - modern tech feel
+    base-link-color: "#60a5fa"          # Lighter blue for better contrast
+    base-link-hover-color: "#93c5fd"    # Even lighter on hover
+    base-link-weight: 700               # Bold for visibility
+    nav-item-text-active-weight: 900    # Maximum boldness for active states
+    image-rounded: 1.25rem              # Consistent modern rounding
 
 # New Hub link feature, but not used on retype.com
 hub:
