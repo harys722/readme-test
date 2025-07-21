@@ -23,16 +23,16 @@ nav:
 theme:
   base:
     # Modern Portfolio Inspired - Clean, Professional, WOW
-    base-color: "#1a202c"               # Rich charcoal - perfect readability
-    base-bg: "#f7fafc"                  # Ultra-light gray - sophisticated canvas
-    primary: "#4299e1"                  # Bright blue - confident and modern
-    success: "#48bb78"                  # Fresh green - positive and clean
-    danger: "#f56565"                   # Vibrant red - clear but not harsh
-    warning: "#ed8936"                  # Warm orange - friendly alert
-    royal: "#805ad5"                    # Rich purple - premium feel
-    accent: "#38b2ac"                   # Teal - modern and distinctive
-    base-link-color: "#3182ce"          # Strong blue - clearly visible
-    base-link-hover-color: "#2c5282"    # Deeper blue on hover
+    base-color: "#1a202c"               # Light blue
+    base-bg: "#f0f9ff"                  # Sky blue
+    primary: "#4299e1"                  # Bright blue 
+    success: "#48bb78"                  # Fresh green 
+    danger: "#f56565"                   # Vibrant red 
+    warning: "#ed8936"                  # Warm orange 
+    royal: "#805ad5"                    # Rich purple 
+    accent: "#38b2ac"                   # Teal 
+    base-link: "#3182ce"          # Strong blue 
+    base-link-hover: "#2c5282"    # Deeper blue on hover
     base-link-weight: 600               # Semi-bold for perfect balance
     nav-item-text-active-weight: 700    # Bold active states
     image-rounded: 1rem                 # Modern rounded corners
@@ -47,8 +47,8 @@ theme:
     warning: "#d29922"                  # Golden yellow - warm glow
     royal: "#a5a3ff"                    # Light purple - dreamy and mystical
     accent: "#39d0d8"                   # Bright cyan - electric pop
-    base-link-color: "#58a6ff"          # Bright blue - perfect contrast
-    base-link-hover-color: "#79c0ff"    # Lighter blue hover - smooth interaction
+    base-link: "#58a6ff"          # Bright blue - perfect contrast
+    base-link-hover: "#79c0ff"    # Lighter blue hover - smooth interaction
     base-link-weight: 600               # Clean weight for dark theme
     nav-item-text-active-weight: 700    # Strong active states
     image-rounded: 1rem                 # Consistent modern styling
