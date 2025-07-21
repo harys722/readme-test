@@ -22,11 +22,35 @@ nav:
 
 theme:
   base:
-    base-bg: "#f0f9ff"              # Ivory silk with sky blue
+    # Sky blue theme
+    base-color: "#2c3e50"           # Deep slate blue for a sophisticated dark tone
+    base-bg: "#e0f7fa"              # Light cyan with a soft, airy feel
+    primary: "#2980b9"              # Bright blue for prominence
+    success: "#27ae60"              # Vibrant green for success
+    danger: "#e74c3c"               # Rich red for alerts
+    warning: "#f39c12"              # Warm orange-yellow for warnings
+    royal: "#8a2be2"                # Bright violet for royal accent
+    accent: "#3498db"                # Slightly lighter blue for accents
+    base-link: "#2980b9"             # Match with primary for consistency
+    base-link-hover: "#1c5980"       # Darker shade on hover
+    base-link-weight: 600
+    nav-item-text-active-weight: 800
     image-rounded: 1rem
 
   dark:
-    base-bg: "#0d1117"              # Midnight blue
+    # Midnight dark blue theme
+    base-color: "#1a1a2e"           # Deep navy for a rich dark background
+    base-bg: "#0d1117"               # Almost black, deep space
+    primary: "#3498db"               # Bright blue for contrast
+    success: "#2ecc71"               # Bright green
+    danger: "#e74c3c"                # Bold red
+    warning: "#f39c12"               # Warm amber
+    royal: "#9b59b6"                 # Medium purple for depth
+    accent: "#2980b9"                # Blue accent
+    base-link: "#3498db"             # Consistent with primary
+    base-link-hover: "#1f6391"       # Darker blue on hover
+    base-link-weight: 600
+    nav-item-text-active-weight: 800
     image-rounded: 1rem
 
 # New Hub link feature, but not used on retype.com
