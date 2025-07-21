@@ -10,3 +10,6 @@ This is the website to let you know how to create a simple documentation website
 
 ## Step 1
 You have to use Retype.com. :D
+
+
+hello retype doesn't seem to be working right now :(
