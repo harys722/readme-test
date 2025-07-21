@@ -22,36 +22,36 @@ nav:
 
 theme:
   base:
-    # Enhanced Azure Sky - keeping your brilliant sky blue concept
-    base-color: "#0f2557"               # Deeper navy for better contrast on sky blue
-    base-bg: "#87ceeb"                  # Your beautiful sky blue - this was perfect!
-    primary: "#2c5aa0"                  # Richer blue that pops on sky background
-    success: "#2e7d70"                  # Deeper teal - more visible on light blue
-    danger: "#d63031"                   # Stronger red with better contrast
-    warning: "#e17055"                  # Warmer orange that stands out
-    royal: "#5b4fcf"                    # Vivid purple that contrasts beautifully
-    accent: "#00a8cc"                   # Deeper turquoise - more dramatic
-    base-link-color: "#1a4480"          # Deep blue links that actually show up
-    base-link-hover-color: "#0f2557"    # Even darker on hover
-    base-link-weight: 700               # Bold enough to be seen on sky blue
-    nav-item-text-active-weight: 800
-    image-rounded: 1rem
+    # Modern Portfolio Inspired - Clean, Professional, WOW
+    base-color: "#1a202c"               # Rich charcoal - perfect readability
+    base-bg: "#f7fafc"                  # Ultra-light gray - sophisticated canvas
+    primary: "#4299e1"                  # Bright blue - confident and modern
+    success: "#48bb78"                  # Fresh green - positive and clean
+    danger: "#f56565"                   # Vibrant red - clear but not harsh
+    warning: "#ed8936"                  # Warm orange - friendly alert
+    royal: "#805ad5"                    # Rich purple - premium feel
+    accent: "#38b2ac"                   # Teal - modern and distinctive
+    base-link-color: "#3182ce"          # Strong blue - clearly visible
+    base-link-hover-color: "#2c5282"    # Deeper blue on hover
+    base-link-weight: 600               # Semi-bold for perfect balance
+    nav-item-text-active-weight: 700    # Bold active states
+    image-rounded: 1rem                 # Modern rounded corners
 
   dark:
-    # Enhanced Midnight Azure - elevating your dark theme
-    base-color: "#a8d8ea"               # Lighter sky blue for perfect dark contrast
-    base-bg: "#0a1420"                  # Slightly deeper midnight
-    primary: "#64b5f6"                  # Brighter steel blue - more luminous
-    success: "#26d0ce"                  # Electric teal - stunning against dark
-    danger: "#ff5252"                   # Vivid red that glows
-    warning: "#ffb74d"                  # Golden glow - more luxurious
-    royal: "#9c88ff"                    # Bright mystical purple
-    accent: "#18ffff"                   # Electric cyan - absolutely brilliant
-    base-link-color: "#81d4fa"          # Bright sky blue links
-    base-link-hover-color: "#b3e5fc"    # Even brighter on hover - electric effect
-    base-link-weight: 600               # Perfect weight for dark theme
-    nav-item-text-active-weight: 800
-    image-rounded: 1rem
+    # Enhanced Midnight Azure - Premium Dark Experience
+    base-color: "#e2e8f0"               # Light gray-blue - soft on eyes
+    base-bg: "#0d1117"                  # GitHub-inspired deep dark
+    primary: "#58a6ff"                  # Electric blue - stunning against dark
+    success: "#3fb950"                  # Vibrant green - GitHub-inspired
+    danger: "#f85149"                   # Bright red - clear visibility
+    warning: "#d29922"                  # Golden yellow - warm glow
+    royal: "#a5a3ff"                    # Light purple - dreamy and mystical
+    accent: "#39d0d8"                   # Bright cyan - electric pop
+    base-link-color: "#58a6ff"          # Bright blue - perfect contrast
+    base-link-hover-color: "#79c0ff"    # Lighter blue hover - smooth interaction
+    base-link-weight: 600               # Clean weight for dark theme
+    nav-item-text-active-weight: 700    # Strong active states
+    image-rounded: 1rem                 # Consistent modern styling
 
 # New Hub link feature, but not used on retype.com
 hub:
