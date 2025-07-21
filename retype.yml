@@ -22,29 +22,29 @@ nav:
 
 theme:
   base:
-    # Luxurious golden sunrise theme - absolutely stunning
-    base-color: "#B8860B"           # Dark Goldenrod for perfect readability
-    base-bg: "#FFFBF0"              # Ivory silk with golden kiss
-    primary: "#FFD700"              # Pure 24-karat gold - maximum brilliance
-    success: "#ADFF2F"              # Electric lime - vibrant energy
-    danger: "#FF1493"               # Deep pink - bold and striking
-    warning: "#FF6347"              # Tomato - warm and inviting
-    royal: "#8A2BE2"                # Blue violet - regal and mysterious
-    accent: "#FFA500"               # Orange - fiery complement
+    # Azure sky theme - light
+    base-color: "#1e3a5f"           # Deep navy for perfect readability
+    base-bg: "#87ceeb"              # Sky blue - cloudless azure heaven
+    primary: "#4682b4"              # Steel blue - brilliant sky depth
+    success: "#5f9ea0"              # Cadet blue - calm and trustworthy
+    danger: "#ff6b6b"               # Coral red - gentle but clear warning
+    warning: "#ffa726"              # Amber - warm sky sunset
+    royal: "#6a5acd"                # Slate blue - regal sky at dusk
+    accent: "#40e0d0"               # Turquoise - tropical sky complement
     base-link-weight: 600
     nav-item-text-active-weight: 800
     image-rounded: 1rem
 
   dark:
-    # Midnight gold luxury theme - breathtaking elegance
-    base-color: "#FFD700"           # Pure gold - gleaming against darkness
-    base-bg: "#0A0A0A"              # Obsidian black - deepest night
-    primary: "#FFFF00"              # Electric yellow - blazing brilliance
-    success: "#00FF7F"              # Spring green - fresh and alive
-    danger: "#FF0080"               # Hot pink - electrifying contrast
-    warning: "#FF4500"              # Orange red - molten fire
-    royal: "#9370DB"                # Medium purple - mystical depth
-    accent: "#FFA500"               # Orange - liquid amber
+    # Midnight azure theme - dark
+    base-color: "#87ceeb"           # Sky blue - gleaming against darkness
+    base-bg: "#0f1419"              # Deep midnight blue - starless night
+    primary: "#4682b4"              # Steel blue - night sky brilliance
+    success: "#20b2aa"              # Light sea green - ocean depths
+    danger: "#ff4757"               # Bright red - clear night warning
+    warning: "#ff9f43"              # Sandy brown - desert night glow
+    royal: "#7b68ee"                # Medium slate blue - mystical night
+    accent: "#00d2d3"               # Dark turquoise - midnight ocean
     base-link-weight: 600
     nav-item-text-active-weight: 800
     image-rounded: 1rem
