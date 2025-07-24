@@ -17,29 +17,33 @@ nav:
 
 theme:
   base:
-    # Golden sunrise theme
-    base-color: "#B8860B"           # Dark Goldenrod for perfect readability
-    base-bg: "#FFFBF0"              # Ivory silk with golden kiss
-    primary: "#FFD700"              # Pure 24-karat gold - maximum brilliance
-    success: "#ADFF2F"              # Electric lime - vibrant energy
-    danger: "#FF1493"               # Deep pink - bold and striking
-    warning: "#FF6347"              # Tomato - warm and inviting
-    royal: "#8A2BE2"                # Blue violet - regal and mysterious
-    accent: "#FFA500"               # Orange - fiery complement
+    # Light sky blue theme - optimized for readability
+    base-color: "#1e293b"           # Dark slate for good contrast on light bg
+    base-bg: "#f0f9ff"              # Very light sky blue
+    primary: "#0ea5e9"              # Bright sky blue
+    success: "#10b981"              # Fresh green
+    danger: "#ef4444"               # Clear red
+    warning: "#f59e0b"              # Amber orange
+    royal: "#8b5cf6"                # Purple
+    accent: "#0284c7"               # Deeper sky blue
+    base-link: "#0369a1"            # Strong blue for links
+    base-link-hover: "#0284c7"      # Lighter blue on hover (better UX)
     base-link-weight: 600
     nav-item-text-active-weight: 800
     image-rounded: 1rem
 
   dark:
-    # Midnight gold theme
-    base-color: "#FFD700"           # Pure gold - gleaming against darkness
-    base-bg: "#0A0A0A"              # Obsidian black - deepest night
-    primary: "#FFFF00"              # Electric yellow - blazing brilliance
-    success: "#00FF7F"              # Spring green - fresh and alive
-    danger: "#FF0080"               # Hot pink - electrifying contrast
-    warning: "#FF4500"              # Orange red - molten fire
-    royal: "#9370DB"                # Medium purple - mystical depth
-    accent: "#FFA500"               # Orange - liquid amber
+    # Dark theme - properly contrasted colors
+    base-color: "#e2e8f0"           # Light gray text for dark backgrounds
+    base-bg: "#0f172a"              # Deep dark blue-gray
+    primary: "#38bdf8"              # Bright cyan-blue
+    success: "#22c55e"              # Vibrant green
+    danger: "#f87171"               # Soft red (less harsh in dark mode)
+    warning: "#fbbf24"              # Golden yellow
+    royal: "#a78bfa"                # Light purple
+    accent: "#0ea5e9"               # Sky blue accent
+    base-link: "#60a5fa"            # Light blue for dark theme links
+    base-link-hover: "#93c5fd"      # Even lighter on hover
     base-link-weight: 600
     nav-item-text-active-weight: 800
     image-rounded: 1rem
