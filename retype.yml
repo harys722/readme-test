@@ -17,33 +17,33 @@ nav:
 
 theme:
   base:
-    # Light sky blue theme - optimized for readability
-    base-color: "#1e293b"           # Dark slate for good contrast on light bg
-    base-bg: "#f0f9ff"              # Very light sky blue
-    primary: "#0ea5e9"              # Bright sky blue
-    success: "#10b981"              # Fresh green
-    danger: "#ef4444"               # Clear red
-    warning: "#f59e0b"              # Amber orange
-    royal: "#8b5cf6"                # Purple
-    accent: "#0284c7"               # Deeper sky blue
-    base-link: "#0369a1"            # Strong blue for links
-    base-link-hover: "#0284c7"      # Lighter blue on hover (better UX)
+    # Light cyan theme - optimized for #e0f7fa background
+    base-color: "#0f172a"           # Very dark for excellent contrast
+    base-bg: "#e0f7fa"              # Your specified light cyan
+    primary: "#0891b2"              # Deep cyan to match background
+    success: "#059669"              # Forest green
+    danger: "#dc2626"               # Strong red
+    warning: "#d97706"              # Deep amber
+    royal: "#7c3aed"                # Rich purple
+    accent: "#0e7490"               # Darker cyan
+    base-link: "#164e63"            # Dark cyan for links
+    base-link-hover: "#0891b2"      # Brighter cyan on hover
     base-link-weight: 600
     nav-item-text-active-weight: 800
     image-rounded: 1rem
 
   dark:
-    # Dark theme - properly contrasted colors
-    base-color: "#e2e8f0"           # Light gray text for dark backgrounds
-    base-bg: "#0f172a"              # Deep dark blue-gray
-    primary: "#38bdf8"              # Bright cyan-blue
-    success: "#22c55e"              # Vibrant green
-    danger: "#f87171"               # Soft red (less harsh in dark mode)
+    # Dark theme - optimized for #212529 background
+    base-color: "#f8fafc"           # Pure light text
+    base-bg: "#212529"              # Your specified dark gray
+    primary: "#22d3ee"              # Bright cyan
+    success: "#34d399"              # Bright green
+    danger: "#fb7185"               # Soft coral red
     warning: "#fbbf24"              # Golden yellow
-    royal: "#a78bfa"                # Light purple
-    accent: "#0ea5e9"               # Sky blue accent
-    base-link: "#60a5fa"            # Light blue for dark theme links
-    base-link-hover: "#93c5fd"      # Even lighter on hover
+    royal: "#c084fc"                # Light purple
+    accent: "#06b6d4"               # Cyan accent
+    base-link: "#67e8f9"            # Light cyan links
+    base-link-hover: "#a5f3fc"      # Even lighter cyan on hover
     base-link-weight: 600
     nav-item-text-active-weight: 800
     image-rounded: 1rem
